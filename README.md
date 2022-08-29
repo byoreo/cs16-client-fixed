@@ -1,4 +1,7 @@
-# CS 1.6 Client Fixed.
+# CS 1.6 Client Fixed
 
 
-Client only works in **Xash3D**.
+- [x] Xash3D support.
+- [ ] Cl_righthand fix.
+- [ ] Goldsource support.
+
